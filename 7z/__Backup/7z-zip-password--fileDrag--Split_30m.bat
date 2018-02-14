@@ -1,0 +1,1 @@
+7z a -tzip %1.zip -mx0 -v30m -pndsjtdh1 %*
