@@ -1,1 +1,0 @@
-7z a -tzip %1.zip -pndsjtdh1 %*
